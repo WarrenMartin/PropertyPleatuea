@@ -1,0 +1,289 @@
+<style>.elementor-31169 .elementor-element.elementor-element-4dd1a41a > .elementor-container{min-height:802px;}.elementor-31169 .elementor-element.elementor-element-4dd1a41a:not(.elementor-motion-effects-element-type-background), .elementor-31169 .elementor-element.elementor-element-4dd1a41a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://www.propertyplateau.com/wp-content/uploads/2023/02/mumbais.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-31169 .elementor-element.elementor-element-4dd1a41a{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-31169 .elementor-element.elementor-element-4dd1a41a > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}</style>
+
+<section data-id="4dd1a41a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"></section><style>.elementor-31170 .elementor-element.elementor-element-4dd1a41a > .elementor-container{min-height:802px;}.elementor-31170 .elementor-element.elementor-element-4dd1a41a:not(.elementor-motion-effects-element-type-background), .elementor-31170 .elementor-element.elementor-element-4dd1a41a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://www.propertyplateau.com/wp-content/uploads/2023/02/1425.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-31170 .elementor-element.elementor-element-4dd1a41a{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-31170 .elementor-element.elementor-element-4dd1a41a > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}</style>
+
+<section data-id="4dd1a41a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"></section><style>.elementor-31391 .elementor-element.elementor-element-4dd1a41a > .elementor-container{min-height:802px;}.elementor-31391 .elementor-element.elementor-element-4dd1a41a:not(.elementor-motion-effects-element-type-background), .elementor-31391 .elementor-element.elementor-element-4dd1a41a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://www.propertyplateau.com/wp-content/uploads/2023/02/goas3.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-31391 .elementor-element.elementor-element-4dd1a41a{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-31391 .elementor-element.elementor-element-4dd1a41a > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}</style>
+
+<section data-id="4dd1a41a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"></section><style>.elementor-32497 .elementor-element.elementor-element-4dd1a41a > .elementor-container{min-height:802px;}.elementor-32497 .elementor-element.elementor-element-4dd1a41a:not(.elementor-motion-effects-element-type-background), .elementor-32497 .elementor-element.elementor-element-4dd1a41a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://www.propertyplateau.com/wp-content/uploads/2023/05/Runwal_Parkside_Cover.png");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-32497 .elementor-element.elementor-element-4dd1a41a{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-32497 .elementor-element.elementor-element-4dd1a41a > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}</style>
+
+<section data-id="4dd1a41a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"></section><a role="tab" href="#saleshortcode" aria-controls="saleshortcode" data-toggle="tab">Sale</a>
+
+<form role="search" action="https://www.propertyplateau.com/advanced-search/" method="get"><input name="filter_search_action[]" type="hidden" value="sale" /><input name="adv6_search_tab" type="hidden" value="sale" />
+<input name="term_id" type="hidden" value="24" />
+<input name="term_counter" type="hidden" value="0" />
+Cities
+<input name="advanced_city" type="hidden" value="" />
+<ul id="shortcode-adv-search-city" role="menu" aria-labelledby="shortcode-advanced_city">
+ 	<li role="presentation" data-value="all" data-value2="all">Cities</li>
+ 	<li role="presentation" data-value="goa" data-value2="goa" data-parentcounty="maharashtra">Goa</li>
+ 	<li role="presentation" data-value="mumbai" data-value2="mumbai" data-parentcounty="mumbai">Mumbai</li>
+ 	<li role="presentation" data-value="pune" data-value2="pune" data-parentcounty="maharashtra">Pune</li>
+ 	<li role="presentation" data-value="thane" data-value2="thane" data-parentcounty="maharashtra">Thane</li>
+</ul>
+Categories
+<input name="filter_search_type[]" type="hidden" value="" />
+<ul id="shortcode-categlist" role="menu" aria-labelledby="shortcode-adv_categ">
+ 	<li role="presentation" data-value="all">Categories</li>
+ 	<li role="presentation" data-value="apartments">Apartments</li>
+ 	<li role="presentation" data-value="office-spaces">Office Spaces</li>
+ 	<li role="presentation" data-value="villa">Villa</li>
+</ul>
+Areas
+<input name="advanced_area" type="hidden" value="" />
+<ul id="shortcode-adv-search-area" role="menu" aria-labelledby="shortcode-advanced_area">
+ 	<li role="presentation" data-value="all">Areas</li>
+ 	<li role="presentation" data-value="andheri-west" data-parentcity="">Andheri West</li>
+ 	<li role="presentation" data-value="anjuna" data-parentcity="">Anjuna</li>
+ 	<li role="presentation" data-value="baner" data-parentcity="">Baner</li>
+ 	<li role="presentation" data-value="chembur" data-parentcity="">Chembur</li>
+ 	<li role="presentation" data-value="dabolim" data-parentcity="">Dabolim</li>
+ 	<li role="presentation" data-value="dehu-road" data-parentcity="">Dehu Road</li>
+ 	<li role="presentation" data-value="goregaon" data-parentcity="">Goregaon</li>
+ 	<li role="presentation" data-value="govandi-east" data-parentcity="">Govandi East</li>
+ 	<li role="presentation" data-value="hinjewadi" data-parentcity="">Hinjewadi</li>
+ 	<li role="presentation" data-value="jogeshwari-west" data-parentcity="">Jogeshwari West</li>
+ 	<li role="presentation" data-value="kanjurmarg" data-parentcity="mumbai">Kanjurmarg</li>
+ 	<li role="presentation" data-value="lower-parel" data-parentcity="">Lower Parel</li>
+ 	<li role="presentation" data-value="mahalaxmi" data-parentcity="dubai">Mahalaxmi</li>
+ 	<li role="presentation" data-value="mulund" data-parentcity="dubai">Mulund</li>
+ 	<li role="presentation" data-value="pilerne" data-parentcity="">Pilerne</li>
+ 	<li role="presentation" data-value="powai" data-parentcity="">Powai</li>
+ 	<li role="presentation" data-value="pune" data-parentcity="">Pune</li>
+ 	<li role="presentation" data-value="santacruz-east" data-parentcity="">Santacruz East</li>
+ 	<li role="presentation" data-value="thane" data-parentcity="">Thane</li>
+ 	<li role="presentation" data-value="vikhroli" data-parentcity="">Vikhroli</li>
+ 	<li role="presentation" data-value="wadala" data-parentcity="">Wadala</li>
+ 	<li role="presentation" data-value="worli" data-parentcity="mumbai">Worli</li>
+</ul>
+<label for="amount">Price range:</label>
+₹ 0 to ₹ 20,00,00,000
+
+<input id="price_low_24" name="price_low_24" type="hidden" value="0" />
+<input id="price_max_24" name="price_max_24" type="hidden" value="200000000" />
+<input name="submit" type="submit" value="Search Properties" />
+
+</form><style>/*! elementor - v3.14.0 - 18-06-2023 */<br />.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style>
+<h2>Our Services</h2>
+<style>/*! elementor - v3.14.0 - 18-06-2023 */<br />.elementor-widget-image-carousel .swiper,.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure,.elementor-widget-image-carousel .swiper .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized):not(.swiper-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}</style>
+<figure><img src="https://www.propertyplateau.com/wp-content/uploads/2023/02/Sell-Your-Home.jpg" alt="Sell Your Home" /><figcaption>Sell Your Home</figcaption></figure>
+<figure><img src="https://www.propertyplateau.com/wp-content/uploads/2023/02/Home-Finance.jpg" alt="Home Finance" /><figcaption>Home Finance</figcaption></figure>
+<figure><img src="https://www.propertyplateau.com/wp-content/uploads/2023/02/Home-Inspection.jpg" alt="Home Inspection" /><figcaption>Home Inspection</figcaption></figure>
+<figure><img src="https://www.propertyplateau.com/wp-content/uploads/2023/02/Home-Interiors.jpg" alt="Home Interiors" /><figcaption>Home Interiors</figcaption></figure>
+<figure><img src="https://www.propertyplateau.com/wp-content/uploads/2023/02/Legal-Services.jpg" alt="Legal Services" /><figcaption>Legal Services</figcaption></figure>
+<figure><img src="https://www.propertyplateau.com/wp-content/uploads/2023/02/Packers-Movers.jpg" alt="Packers &amp; Movers" /><figcaption>Packers &amp; Movers</figcaption></figure>
+<figure><img src="https://www.propertyplateau.com/wp-content/uploads/2023/02/Pest-Control.jpg" alt="Pest Control" /><figcaption>Pest Control</figcaption></figure>
+<figure><img src="https://www.propertyplateau.com/wp-content/uploads/2023/02/Registrations.jpg" alt="Registrations" /><figcaption>Registrations</figcaption></figure>
+<figure><img src="https://www.propertyplateau.com/wp-content/uploads/2023/02/Rent-Agreement.jpg" alt="Rent Agreement" /><figcaption>Rent Agreement</figcaption></figure>
+<figure><img src="https://www.propertyplateau.com/wp-content/uploads/2023/02/Solar-Homes.jpg" alt="Solar Homes" /><figcaption>Solar Homes</figcaption></figure>
+<figure><img src="https://www.propertyplateau.com/wp-content/uploads/2023/02/Vastu-Consultation.jpg" alt="Vastu Consultation" /><figcaption>Vastu Consultation</figcaption></figure>
+<h2>Latest properties</h2>
+Checkout our latest Property Listings
+<input id="page_idx" type="hidden" value="32501" />
+Sale
+<ul role="menu" aria-labelledby="a_filter_action">
+ 	<li role="presentation" data-value="all">Types</li>
+ 	<li role="presentation" data-value="sale">Sale</li>
+</ul>
+Apartments
+<ul role="menu" aria-labelledby="a_filter_categ">
+ 	<li role="presentation" data-value="all">Categories</li>
+ 	<li role="presentation" data-value="apartments">Apartments</li>
+ 	<li role="presentation" data-value="office-spaces">Office Spaces</li>
+ 	<li role="presentation" data-value="villa">Villa</li>
+</ul>
+Maharashtra
+<ul id="filter_county" role="menu" aria-labelledby="a_filter_county">
+ 	<li role="presentation" data-value="all" data-value2="all">States</li>
+ 	<li role="presentation" data-value="goa" data-value2="goa">Goa</li>
+ 	<li role="presentation" data-value="maharashtra" data-value2="maharashtra">Maharashtra</li>
+ 	<li role="presentation" data-value="pune" data-value2="pune">Pune</li>
+</ul>
+Mumbai
+<ul id="filter_city" role="menu" aria-labelledby="a_filter_cities">
+ 	<li role="presentation" data-value="all" data-value2="all">Cities</li>
+ 	<li role="presentation" data-value="goa" data-value2="goa" data-parentcounty="maharashtra">Goa</li>
+ 	<li role="presentation" data-value="mumbai" data-value2="mumbai" data-parentcounty="mumbai">Mumbai</li>
+ 	<li role="presentation" data-value="pune" data-value2="pune" data-parentcounty="maharashtra">Pune</li>
+ 	<li role="presentation" data-value="thane" data-value2="thane" data-parentcounty="maharashtra">Thane</li>
+</ul>
+Bandra West
+<ul id="filter_area" role="menu" aria-labelledby="a_filter_areas">
+ 	<li role="presentation" data-value="all">Areas</li>
+ 	<li role="presentation" data-value="andheri-west" data-parentcity="">Andheri West</li>
+ 	<li role="presentation" data-value="anjuna" data-parentcity="">Anjuna</li>
+ 	<li role="presentation" data-value="baner" data-parentcity="">Baner</li>
+ 	<li role="presentation" data-value="chembur" data-parentcity="">Chembur</li>
+ 	<li role="presentation" data-value="dabolim" data-parentcity="">Dabolim</li>
+ 	<li role="presentation" data-value="dehu-road" data-parentcity="">Dehu Road</li>
+ 	<li role="presentation" data-value="goregaon" data-parentcity="">Goregaon</li>
+ 	<li role="presentation" data-value="govandi-east" data-parentcity="">Govandi East</li>
+ 	<li role="presentation" data-value="hinjewadi" data-parentcity="">Hinjewadi</li>
+ 	<li role="presentation" data-value="jogeshwari-west" data-parentcity="">Jogeshwari West</li>
+ 	<li role="presentation" data-value="kanjurmarg" data-parentcity="mumbai">Kanjurmarg</li>
+ 	<li role="presentation" data-value="lower-parel" data-parentcity="">Lower Parel</li>
+ 	<li role="presentation" data-value="mahalaxmi" data-parentcity="dubai">Mahalaxmi</li>
+ 	<li role="presentation" data-value="mulund" data-parentcity="dubai">Mulund</li>
+ 	<li role="presentation" data-value="pilerne" data-parentcity="">Pilerne</li>
+ 	<li role="presentation" data-value="powai" data-parentcity="">Powai</li>
+ 	<li role="presentation" data-value="pune" data-parentcity="">Pune</li>
+ 	<li role="presentation" data-value="santacruz-east" data-parentcity="">Santacruz East</li>
+ 	<li role="presentation" data-value="thane" data-parentcity="">Thane</li>
+ 	<li role="presentation" data-value="vikhroli" data-parentcity="">Vikhroli</li>
+ 	<li role="presentation" data-value="wadala" data-parentcity="">Wadala</li>
+ 	<li role="presentation" data-value="worli" data-parentcity="mumbai">Worli</li>
+</ul>
+Default
+<ul id="filter_order" role="menu" aria-labelledby="a_filter_order">
+ 	<li role="presentation" data-value="1">Price High to Low</li>
+ 	<li role="presentation" data-value="2">Price Low to High</li>
+ 	<li role="presentation" data-value="3">Newest first</li>
+ 	<li role="presentation" data-value="4">Oldest first</li>
+ 	<li role="presentation" data-value="11">Newest Edited</li>
+ 	<li role="presentation" data-value="12">Oldest Edited</li>
+ 	<li role="presentation" data-value="5">Bedrooms High to Low</li>
+ 	<li role="presentation" data-value="6">Bedrooms Low to high</li>
+ 	<li role="presentation" data-value="7">Bathrooms High to Low</li>
+ 	<li role="presentation" data-value="8">Bathrooms Low to high</li>
+ 	<li role="presentation" data-value="0">Default</li>
+</ul>
+<a href="https://www.propertyplateau.com/properties/club-cloud-at-silicon-valley-powai/" target="_self" rel="noopener"><img src="https://www.propertyplateau.com/wp-content/uploads/2023/06/2-22-525x328.png" alt="" width="525" height="328" data-original="https://www.propertyplateau.com/wp-content/uploads/2023/06/2-22-525x328.png" /></a>
+<a href="https://www.propertyplateau.com/properties/club-cloud-at-silicon-valley-powai/" target="_self" rel="noopener"><img alt="Club Cloud at Silicon Valley, Powai" width="525px" height="328px" data-lazy-load-src="https://www.propertyplateau.com/wp-content/uploads/2023/06/4-9-525x328.png" /></a>
+<a href="https://www.propertyplateau.com/properties/club-cloud-at-silicon-valley-powai/" target="_self" rel="noopener"><img alt="Club Cloud at Silicon Valley, Powai" width="525px" height="328px" data-lazy-load-src="https://www.propertyplateau.com/wp-content/uploads/2023/06/3-22-525x328.png" /></a>
+<a href="https://www.propertyplateau.com/properties/club-cloud-at-silicon-valley-powai/" target="_self" rel="noopener"><img alt="Club Cloud at Silicon Valley, Powai" width="525px" height="328px" data-lazy-load-src="https://www.propertyplateau.com/wp-content/uploads/2023/06/1-25-525x328.png" /></a>
+<a href="#property_unit_carousel_649bf9fe4ccd1" data-slide="prev">
+</a>
+<a href="#property_unit_carousel_649bf9fe4ccd1" data-slide="next">
+</a>
+SaleReady to Move
+<h4><a href="https://www.propertyplateau.com/properties/club-cloud-at-silicon-valley-powai/">
+Club Cloud at Silicon Valley, Powai </a></h4>
+From ₹ 2,.29 CR
+Bedrooms2Baths2Size666 ft<sup>2</sup>
+2 Bedrooms2 Baths666 ft<sup>2</sup>
+Powerhouse Locations Kanjurmarg Station – 10 minEastern Express Highway – 12 minEastern Freeway – 10 m <a href="https://www.propertyplateau.com/properties/club-cloud-at-silicon-valley-powai/"> ...</a>
+Powerhouse Locations Kanjurmarg Station – 10 minEastern Express Highway – 12 minEastern <a href="https://www.propertyplateau.com/properties/club-cloud-at-silicon-valley-powai/"> ...</a>
+From ₹ 2,.29 CR
+<a href="https://www.propertyplateau.com/agents/property-plateau/">
+</a>
+<a href="https://www.propertyplateau.com/properties/lodha-crown-kolshet/" target="_self" rel="noopener"><img src="https://www.propertyplateau.com/wp-content/uploads/2023/06/3-20-525x328.png" alt="" width="525" height="328" data-original="https://www.propertyplateau.com/wp-content/uploads/2023/06/3-20-525x328.png" /></a>
+<a href="https://www.propertyplateau.com/properties/lodha-crown-kolshet/" target="_self" rel="noopener"><img alt="LODHA CROWN KOLSHET" width="525px" height="328px" data-lazy-load-src="https://www.propertyplateau.com/wp-content/uploads/2023/06/2-20-525x328.png" /></a>
+<a href="https://www.propertyplateau.com/properties/lodha-crown-kolshet/" target="_self" rel="noopener"><img alt="LODHA CROWN KOLSHET" width="525px" height="328px" data-lazy-load-src="https://www.propertyplateau.com/wp-content/uploads/2023/06/1-23-525x328.png" /></a>
+<a href="#property_unit_carousel_649bf9fe4fb78" data-slide="prev">
+</a>
+<a href="#property_unit_carousel_649bf9fe4fb78" data-slide="next">
+</a>
+SaleReady to Move
+<h4><a href="https://www.propertyplateau.com/properties/lodha-crown-kolshet/">
+LODHA CROWN KOLSHET </a></h4>
+From ₹ 60 LAKH
+Bedrooms1Baths1Size322 ft<sup>2</sup>
+1 Bedrooms1 Baths322 ft<sup>2</sup>
+Project Highlights:
+Project Highlights:
+From ₹ 60 LAKH
+<a href="https://www.propertyplateau.com/agents/property-plateau/">
+</a>
+<a href="https://www.propertyplateau.com/properties/rejuve-360-by-lt-realty/" target="_self" rel="noopener"><img src="https://www.propertyplateau.com/wp-content/uploads/2023/06/1-21-525x328.png" alt="" width="525" height="328" data-original="https://www.propertyplateau.com/wp-content/uploads/2023/06/1-21-525x328.png" /></a>
+<a href="https://www.propertyplateau.com/properties/rejuve-360-by-lt-realty/" target="_self" rel="noopener"><img alt="REJUVE 360 by L&amp;T REALTY" width="525px" height="328px" data-lazy-load-src="https://www.propertyplateau.com/wp-content/uploads/2023/06/6-5-525x328.png" /></a>
+<a href="https://www.propertyplateau.com/properties/rejuve-360-by-lt-realty/" target="_self" rel="noopener"><img alt="REJUVE 360 by L&amp;T REALTY" width="525px" height="328px" data-lazy-load-src="https://www.propertyplateau.com/wp-content/uploads/2023/06/5-6-525x328.png" /></a>
+<a href="https://www.propertyplateau.com/properties/rejuve-360-by-lt-realty/" target="_self" rel="noopener"><img alt="REJUVE 360 by L&amp;T REALTY" width="525px" height="328px" data-lazy-load-src="https://www.propertyplateau.com/wp-content/uploads/2023/06/3-18-525x328.png" /></a>
+<a href="#property_unit_carousel_649bf9fe50bb3" data-slide="prev">
+</a>
+<a href="#property_unit_carousel_649bf9fe50bb3" data-slide="next">
+</a>
+SaleReady to Move
+<h4><a href="https://www.propertyplateau.com/properties/rejuve-360-by-lt-realty/">
+REJUVE 360 by L&amp;T REALTY </a></h4>
+From ₹ 1,.58 CR
+Bedrooms2Baths2Size610 ft<sup>2</sup>
+2 Bedrooms2 Baths610 ft<sup>2</sup>
+From ₹ 1,.58 CR
+<a href="https://www.propertyplateau.com/agents/property-plateau/">
+</a>
+<a href="https://www.propertyplateau.com/properties/com-mulund-west/" target="_self" rel="noopener"><img src="https://www.propertyplateau.com/wp-content/uploads/2023/06/3-16-525x328.png" alt="" width="525" height="328" data-original="https://www.propertyplateau.com/wp-content/uploads/2023/06/3-16-525x328.png" /></a>
+<a href="https://www.propertyplateau.com/properties/com-mulund-west/" target="_self" rel="noopener"><img alt="Com Mulund West" width="525px" height="328px" data-lazy-load-src="https://www.propertyplateau.com/wp-content/uploads/2023/06/2-15-525x328.png" /></a>
+<a href="https://www.propertyplateau.com/properties/com-mulund-west/" target="_self" rel="noopener"><img alt="Com Mulund West" width="525px" height="328px" data-lazy-load-src="https://www.propertyplateau.com/wp-content/uploads/2023/06/1-18-525x328.png" /></a>
+<a href="#property_unit_carousel_649bf9fe51987" data-slide="prev">
+</a>
+<a href="#property_unit_carousel_649bf9fe51987" data-slide="next">
+</a>
+Sale
+<h4><a href="https://www.propertyplateau.com/properties/com-mulund-west/">
+Com Mulund West </a></h4>
+From ₹ 1,.48 CR
+Bedrooms2Baths2
+2 Bedrooms2 Baths
+Project Highlights: ★ Connectivity ★ Education ★ Hospital ★ Shopping &amp; Entertainment
+Project Highlights: ★ Connectivity ★ Education ★ Hospital ★ Shopping &amp; Entertainment
+From ₹ 1,.48 CR
+<a href="https://www.propertyplateau.com/agents/property-plateau/">
+</a>
+<a href="https://www.propertyplateau.com/properties/lake-riviera-powai/" target="_self" rel="noopener"><img src="https://www.propertyplateau.com/wp-content/uploads/2023/06/2-14-525x328.png" alt="" width="525" height="328" data-original="https://www.propertyplateau.com/wp-content/uploads/2023/06/2-14-525x328.png" /></a>
+<a href="https://www.propertyplateau.com/properties/lake-riviera-powai/" target="_self" rel="noopener"><img alt="Lake Riviera , Powai" width="407px" height="310px" data-lazy-load-src="https://www.propertyplateau.com/wp-content/uploads/2023/06/3-15.png" /></a>
+<a href="https://www.propertyplateau.com/properties/lake-riviera-powai/" target="_self" rel="noopener"><img alt="Lake Riviera , Powai" width="525px" height="328px" data-lazy-load-src="https://www.propertyplateau.com/wp-content/uploads/2023/06/1-17-525x328.png" /></a>
+<a href="#property_unit_carousel_649bf9fe529c1" data-slide="prev">
+</a>
+<a href="#property_unit_carousel_649bf9fe529c1" data-slide="next">
+</a>
+SaleReady to Move
+<h4><a href="https://www.propertyplateau.com/properties/lake-riviera-powai/">
+Lake Riviera , Powai </a></h4>
+From ₹ 2,.03 CR
+From ₹ 2,.03 CR
+<a href="https://www.propertyplateau.com/agents/property-plateau/">
+</a>
+<a href="https://www.propertyplateau.com/properties/runwal-group/" target="_self" rel="noopener"><img src="https://www.propertyplateau.com/wp-content/uploads/2023/06/4-6-525x328.png" alt="" width="525" height="328" data-original="https://www.propertyplateau.com/wp-content/uploads/2023/06/4-6-525x328.png" /></a>
+<a href="https://www.propertyplateau.com/properties/runwal-group/" target="_self" rel="noopener"><img alt="Runwal Group" width="525px" height="328px" data-lazy-load-src="https://www.propertyplateau.com/wp-content/uploads/2023/06/3-14-525x328.png" /></a>
+<a href="https://www.propertyplateau.com/properties/runwal-group/" target="_self" rel="noopener"><img alt="Runwal Group" width="525px" height="328px" data-lazy-load-src="https://www.propertyplateau.com/wp-content/uploads/2023/06/2-13-525x328.png" /></a>
+<a href="https://www.propertyplateau.com/properties/runwal-group/" target="_self" rel="noopener"><img alt="Runwal Group" width="525px" height="328px" data-lazy-load-src="https://www.propertyplateau.com/wp-content/uploads/2023/06/1-16-525x328.png" /></a>
+<a href="#property_unit_carousel_649bf9fe53765" data-slide="prev">
+</a>
+<a href="#property_unit_carousel_649bf9fe53765" data-slide="next">
+</a>
+SaleReady to Move
+<h4><a href="https://www.propertyplateau.com/properties/runwal-group/">
+Runwal Group </a></h4>
+From ₹ 2,.04 CR
+Bedrooms3Size967 ft<sup>2</sup>
+3 Bedrooms967 ft<sup>2</sup>
+From ₹ 2,.04 CR
+<a href="https://www.propertyplateau.com/agents/property-plateau/">
+</a>
+<ul>
+ 	<li></li>
+ 	<li><a href="https://www.propertyplateau.com/wp-admin/admin-ajax.php?order=0" data-future="1">1</a></li>
+ 	<li><a href="https://www.propertyplateau.com/wp-admin/admin-ajax.php?paged=2&amp;order=0" data-future="2">2</a></li>
+ 	<li><a href="https://www.propertyplateau.com/wp-admin/admin-ajax.php?paged=3&amp;order=0" data-future="3">3</a></li>
+ 	<li></li>
+</ul>
+<h2>Property Plateau</h2>
+Engage with our professional real estate comapany to buy your dream home.
+<h2>Get in touch</h2>
+<input id="foot_contact_name_sh" style="color: !important; background: #F3F5F6!important;" tabindex="373" name="contact_name" required="required" type="text" value="" placeholder="Your Name" />
+<input id="foot_contact_email_sh" style="color: !important; background: #F3F5F6!important;" tabindex="374" name="contact_email" required="required" type="email" value="" placeholder="Your Email" />
+<input id="foot_contact_phone_sh" style="color: !important; background: #F3F5F6!important;" tabindex="374" name="contact_phone" required="required" type="email" value="" placeholder="Your Phone" />
+<textarea id="foot_contact_content_sh" style="color: !important; background: #F3F5F6!important;" tabindex="375" name="contact_content" required="required" rows="4" placeholder="Type your message..."></textarea>
+<input id="contact_footer_ajax_nonce_sh" name="contact_footer_ajax_nonce" type="hidden" value="16536a7e49" />
+<button id="btn-cont-submit_sh" type="submit">Send Message</button>
+<input name="contact_to" type="hidden" value="" />
+
+<style>
+    .shortcode_contact_form textarea::-webkit-input-placeholder,<br />    .shortcode_contact_form input::-webkit-input-placeholder {<br />     color:!important;";<br />}<br /></style>
+<h2>News &amp; articles</h2>
+Read about what is happening in real estate market
+<a href="https://www.propertyplateau.com/how-much-increase-in-rent-is-allowed-under-the-rent-control-act/"><img src="https://www.propertyplateau.com/wp-content/uploads/2023/04/Real-Estate-Investment-Trust-525x328.png" alt="" width="525" height="328" data-original="https://www.propertyplateau.com/wp-content/uploads/2023/04/Real-Estate-Investment-Trust-525x328.png" /></a>
+<h4><a href="https://www.propertyplateau.com/how-much-increase-in-rent-is-allowed-under-the-rent-control-act/">How Much Increase in Rent is allowed under t...</a></h4>
+Apr 22, 2023
+Landlords are entitled to make an increase of 4% per annum in the rent of the property that has been let out for an <a href="https://www.propertyplateau.com/how-much-increase-in-rent-is-allowed-under-the-rent-control-act/">...</a>
+<a href="https://www.propertyplateau.com/how-much-increase-in-rent-is-allowed-under-the-rent-control-act/"> Continue reading </a>
+<a href="https://www.propertyplateau.com/reit-real-estate-investment-trust-%ef%bf%bc/"><img src="https://www.propertyplateau.com/wp-content/uploads/2023/04/REIT-525x328.png" alt="" width="525" height="328" data-original="https://www.propertyplateau.com/wp-content/uploads/2023/04/REIT-525x328.png" /></a>
+<h4><a href="https://www.propertyplateau.com/reit-real-estate-investment-trust-%ef%bf%bc/">REIT – Real Estate Investment Trust  ￼</a></h4>
+Apr 13, 2023
+Real Estate Investment Trusts (REITs) are companies that own and manage real estate properties. They are a popular <a href="https://www.propertyplateau.com/reit-real-estate-investment-trust-%ef%bf%bc/">...</a>
+<a href="https://www.propertyplateau.com/reit-real-estate-investment-trust-%ef%bf%bc/"> Continue reading </a>
+<a href="https://www.propertyplateau.com/repo-rate-hikes-impacts-home-mortgages-demand/"><img src="https://www.propertyplateau.com/wp-content/uploads/2023/04/Untitled-design-4-525x328.png" alt="" width="525" height="328" data-original="https://www.propertyplateau.com/wp-content/uploads/2023/04/Untitled-design-4-525x328.png" /></a>
+<h4><a href="https://www.propertyplateau.com/repo-rate-hikes-impacts-home-mortgages-demand/">Repo Rate Hikes Impacts Home Mortgages Deman...</a></h4>
+Apr 13, 2023
+Repo rate is the interest rate at which the RBI lends money to commercial banks. When the repo rate increases, it l <a href="https://www.propertyplateau.com/repo-rate-hikes-impacts-home-mortgages-demand/">...</a>
+<a href="https://www.propertyplateau.com/repo-rate-hikes-impacts-home-mortgages-demand/"> Continue reading </a>
+load articles
